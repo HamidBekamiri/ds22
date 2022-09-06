@@ -23,6 +23,7 @@ This session is a basic introduction to statistical programming as well as a sho
 <!---
 * [Python DS Handbook, C.2-3 answers](https://colab.research.google.com/github/aaubs/ds-master/blob/main/courses/ds4b-m1-1-intro/notebooks/s1-dshb-answers.ipynb)
 --->
+* [Notebook: Pandas exercises](https://github.com/HamidBekamiri/Data_Science_Handbook/blob/main/Exercises_06092022.ipynb)
 
 ## Further studies
 
